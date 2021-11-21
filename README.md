@@ -1,7 +1,7 @@
 <img src="https://badge42.herokuapp.com/api/stats/signacia?darkmode=true&privacyEmail=true&privacyCursus=true"/>
 
 
-| **Libft** | <img src="https://badge42.herokuapp.com/api/project/signacia/Libft"/> | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/signacia/signacia/Exam Rank 02"/> |
+| **Libft** | <img src="https://badge42.herokuapp.com/api/project/signacia/Libft"/> | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/signacia/Exam%20Rank%2002"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **Netwhat** | <img src="https://badge42.herokuapp.com/api/project/signacia/netwhat"/>  | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/prochell/Exam Rank 03"/>|
 | **get_next_line** | <img src="https://badge42.herokuapp.com/api/project/signacia/get_next_line"/>  | **Exam Rank 04** | <img src="https://badge42.herokuapp.com/api/project/prochell/Exam Rank 04"/>|
