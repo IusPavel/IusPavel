@@ -1,7 +1,7 @@
 <img src="https://badge42.herokuapp.com/api/stats/signacia?darkmode=true&privacyEmail=true&privacyCursus=true"/>
 
 
-| **Libft** | <img src="https://badge42.herokuapp.com/api/project/signacia/Libft"/> | **cub3d** | <img src="https://badge42.herokuapp.com/api/project/signacia/cub3d"/> |
+| **Libft** | <img src="https://badge42.herokuapp.com/api/project/signacia/Libft"/> | **C++ Modules** | <img src="https://badge42.herokuapp.com/api/project/signacia/CPP Module 08"/>|
 | :------------: | :------------: | :------------: | :------------: |
 | **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/signacia/Born2beroot"/>  | **ft_containers** | <img src="https://badge42.herokuapp.com/api/project/signacia/ft_containers"/> |
 | **get_next_line** | <img src="https://badge42.herokuapp.com/api/project/signacia/get_next_line"/>  | **webserv** | <img src="https://badge42.herokuapp.com/api/project/signacia/webserv"/>|
@@ -12,7 +12,7 @@
 | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/signacia/Philosophers"/> | **Exam Rank 04** | <img src="https://badge42.herokuapp.com/api/project/signacia/Exam Rank 04"/>|
 | **minishell** | <img src="https://badge42.herokuapp.com/api/project/signacia/minishell"/> | **Exam Rank 05** | <img src="https://badge42.herokuapp.com/api/project/signacia/Exam Rank 05"/>|
 | **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/signacia/NetPractice"/> | **Exam Rank 06** | <img src="https://badge42.herokuapp.com/api/project/signacia/Exam Rank 06"/>|
-| **C++ Modules** | <img src="https://badge42.herokuapp.com/api/project/signacia/CPP Module 08"/>|
+| **cub3d** | <img src="https://badge42.herokuapp.com/api/project/signacia/cub3d"/> |
 
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IusPavel)  | ![](https://komarev.com/ghpvc/?username=IusPavel) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IusPavel&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6) |
