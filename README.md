@@ -6,8 +6,8 @@
 | **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/signacia/Born2beroot"/>  | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/signacia/Exam Rank 03"/>|
 | **get_next_line** | <img src="https://badge42.herokuapp.com/api/project/signacia/get_next_line"/>  | **Exam Rank 04** | <img src="https://badge42.herokuapp.com/api/project/prochell/Exam Rank 04"/>|
 | **ft_printf** | <img src="https://badge42.herokuapp.com/api/project/signacia/ft_printf"/> | **Exam Rank 05** | <img src="https://badge42.herokuapp.com/api/project/signacia/Exam Rank 05"/>|
-| **ft_Server** | <img src="https://badge42.herokuapp.com/api/project/signacia/ft_server"/> |**Exam Rank 06** | <img src="https://badge42.herokuapp.com/api/project/signacia/Exam Rank 06"/>|
-| **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/signacia/cub3d"/> |**Inception** | <img src="https://badge42.herokuapp.com/api/project/signacia/Inception"/> |
+| **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/signacia/push_swap"/> |**Exam Rank 06** | <img src="https://badge42.herokuapp.com/api/project/signacia/Exam Rank 06"/>|
+| **minitalk** | <img src="https://badge42.herokuapp.com/api/project/signacia/minitalk"/> |**FdF** | <img src="https://badge42.herokuapp.com/api/project/signacia/FdF"/> |
 | **minishell** | <img src="https://badge42.herokuapp.com/api/project/signacia/minishell"/> | **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/signacia/NetPractice"/> |
 | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/signacia/Philosophers"/> | **Webserv** | <img src="https://badge42.herokuapp.com/api/project/signacia/webserv"/> |
 | **C++ Modules** | <img src="https://badge42.herokuapp.com/api/project/signacia/CPP Module 08"/> | **Containers** | <img src="https://badge42.herokuapp.com/api/project/signacia/ft_containers"/> |
