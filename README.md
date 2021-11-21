@@ -1,9 +1,9 @@
-<img src="https://badge42.herokuapp.com/api/stats/signacia?darkmode=true&privacyEmail=true&privacyCursus=true"/>
+<img src="https://badge42.herokuapp.com/api/stats/signacia?darkmode=false&privacyEmail=true&privacyCursus=true"/>
 
 
 | **Libft** | <img src="https://badge42.herokuapp.com/api/project/signacia/Libft"/> | **C++ Modules** | <img src="https://badge42.herokuapp.com/api/project/signacia/CPP Module 08"/>|
 | :------------: | :------------: | :------------: | :------------: |
-| **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/signacia/Born2beroot"/>  | **ft_containers** | <img src="https://badge42.herokuapp.com/api/project/signacia/ft_containers"/> |
+| **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/signacia/Born2beroot" />  | **ft_containers** | <img src="https://badge42.herokuapp.com/api/project/signacia/ft_containers"/> |
 | **get_next_line** | <img src="https://badge42.herokuapp.com/api/project/signacia/get_next_line"/>  | **webserv** | <img src="https://badge42.herokuapp.com/api/project/signacia/webserv"/>|
 | **ft_printf** | <img src="https://badge42.herokuapp.com/api/project/signacia/ft_printf"/> | **Inception** | <img src="https://badge42.herokuapp.com/api/project/signacia/Inception"/>|
 | **push_swap** | <img src="https://badge42.herokuapp.com/api/project/signacia/push_swap"/> | **ft_transcendence** | <img src="https://badge42.herokuapp.com/api/project/signacia/ft_transcendence"/>|
